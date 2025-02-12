@@ -1,6 +1,6 @@
-# 10th-template
+# Generative AI in Drug Design Lab
 
-<h1 align="center"> 10th Template </h1>
+<h1 align="center"> Generative AI in Drug Design Lab </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
@@ -21,7 +21,7 @@
 
 ## 🌟 프로젝트 목표 (Project Vision)
 _"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
-- Graph-based RAG 스터디 및 프로젝트
+- Drug Design에 활용되는 Generative Model 에 대한 스터디 및 프로젝트
 - 개인 성장과 집단 지혜의 시너지 창출
 - 오픈소스 정신을 바탕으로 한 지식 공유 문화
 - 실패를 성공의 디딤돌로 만드는 실험적 접근
@@ -31,7 +31,7 @@ _"이론에서 실전까지, 함께 성장하는 AI 실험실"_
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 김찬란 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/추천 시스템 최적화             |
+| **Project Manager** | 최호재 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/생물정보학             |
 | **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
 
 
@@ -70,25 +70,25 @@ class CollaborationFramework:
 
 
 ## 📈 성과 지표 (Achievement Metrics)
-**2024 주요 KPI**  
+**2025 주요 KPI**  
 | 지표                     | 목표치 | 현재 달성률 |
 |--------------------------|--------|-------------|
-| 커밋 수                  | 1,200  | 83%         |
-| 이슈 해결률              | 95%    | 89%         | 
-| 기술 블로그 게시물       | 24편   | 15편        |
-| 오픈소스 기여도          | 8회    | 5회         |
+| 커밋 수                  | 1,200  | 0%         |
+| 이슈 해결률              | 95%    | 0%         | 
+| 기술 블로그 게시물       | 24편   | 0편        |
+| 오픈소스 기여도          | 8회    | 0회         |
 
 
 ## 💻 주차별 활동 (Activity History)
 
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
-| 2025/02/ | OT       |      |
-| 2025/02/ |  Part 1. | 미정 | 
-| 2025/02/ |  Part 2. | 미정 | 
-| 2025/02/ |  Part 3. | 미정 | 
-| 2025/03/ |  Part 4. | 미정 | 
-| 2025/03/ |  Part 5. | 미정 | 
+| 2025/02/ | OT - 제약분야에서 사용되는 AI 모델들과 생성형 AI 소개 | 최호재 |
+| 2025/02/?? |  Part 1. | 미정 | 
+| 2025/02/?? |  Part 2. | 미정 | 
+| 2025/02/?? |  Part 3. | 미정 | 
+| 2025/03/?? |  Part 4. | 미정 | 
+| 2025/03/?? |  Part 5. | 미정 | 
 
 
 
@@ -110,7 +110,7 @@ class CollaborationFramework:
 
 ## Acknowledgement 🙏
 
-OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+Generative AI in Drug Design Lab is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 ## About Pseudo Lab 👋🏼</h2>
 
@@ -118,7 +118,7 @@ OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thank
 
 <h2>Contributors 😃</h2>
 <a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/10th-template" />
+  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/GenAIDD" />
 </a>
 <br><br>
 
