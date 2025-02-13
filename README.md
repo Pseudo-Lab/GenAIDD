@@ -17,7 +17,7 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
+> Welcome to  Generative AI in Drug Design Lab repository! We aim to organize recent papers related with generative AI in drug discovery, We are planning to offer tools and frameworks for generating molecules, benchmark, and visualized analysis. Join us in advancing the field of generative AI through open collaboration and innovation!
 
 ## 🌟 프로젝트 목표 (Project Vision)
 _"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
@@ -31,7 +31,7 @@ _"이론에서 실전까지, 함께 성장하는 AI 실험실"_
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 최호재 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/생물정보학             |
+| **Project Manager** | 최호재 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI, 연구, 웹서비스 구축             |
 | **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
 
 
@@ -40,11 +40,11 @@ _"이론에서 실전까지, 함께 성장하는 AI 실험실"_
 gantt
     title 2025 AI 프로젝트 여정
     section 핵심 마일스톤
-    이론 연구       :a1, 2025-09-01, 30d
+    이론 연구       :a1, 2025-02-15, 90d
     MVP 개발        :a2, after a1, 45d
     프로덕션 적용    :a3, after a2, 30d
     section 부가 활동
-    기술 세미나     :2025-10-15, 7d
+    기술 세미나     :2025-05-15, 7d
     해커톤         :2025-11-20, 3d
 ```
 
@@ -83,21 +83,24 @@ class CollaborationFramework:
 
 | 날짜 | 내용 | 발표자 | 
 | -------- | -------- | ---- |
-| 2025/02/ | OT - 제약분야에서 사용되는 AI 모델들과 생성형 AI 소개 | 최호재 |
-| 2025/02/?? |  Part 1. | 미정 | 
-| 2025/02/?? |  Part 2. | 미정 | 
-| 2025/02/?? |  Part 3. | 미정 | 
-| 2025/03/?? |  Part 4. | 미정 | 
-| 2025/03/?? |  Part 5. | 미정 | 
+| 2025/02/ | OT - 제약분야에서 사용되는 다양한 모델들과 생성형 AI 소개 | 최호재 |
+| 2025/02/?? |  Part 1. 논문 리뷰 | 미정 | 
+| 2025/02/?? |  Part 2. 논문 리뷰 | 미정 | 
+| 2025/02/?? |  Part 3. 논문 리뷰 | 미정 | 
+| 2025/03/?? |  Part 4. 논문 리뷰 | 미정 | 
+| 2025/03/?? |  Part 5. 논문 리뷰 | 미정 | 
 
 
 
 ## 💡 학습 자원 (Learning Resources)
 **우리가 만든 지식 허브**  
+- [LAIDD](): (optional) 제약분야에 대해서 self-pace 로 학습하고 싶을 때
+- [Valence Portal](): 제약분야에서 사용되는 최신의 모델들을 파악하고 싶을 때
+<!--
 - [AI Playbook](https://github.com/your-org/ai-playbook): 150+ 페이지의 실전 가이드
 - [MLOps Pipeline Template](https://github.com/your-org/mlops-template): 재사용 가능한 인프라 코드
 - [Failure Journal](https://your-org.github.io/failure-journal): 50+개의 실패 사례 분석 [31][34]
-
+-->
 
 ## 🌱 참여 안내 (How to Engage)
 **팀원으로 참여하시려면 러너 모집 기간에 신청해주세요.**  
@@ -117,7 +120,7 @@ Generative AI in Drug Design Lab is developed as part of Pseudo-Lab's Open Resea
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
 <h2>Contributors 😃</h2>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
+<a href="https://github.com/Pseudo-Lab/GenAIDD/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Pseudo-Lab/GenAIDD" />
 </a>
 <br><br>
