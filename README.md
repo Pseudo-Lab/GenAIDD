@@ -37,7 +37,7 @@ _"이론에서 실전까지, 함께 성장하는 AI 실험실"_
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
 | **Project Manager** | [최호재](https://www.linkedin.com/in/hojae-m-choi) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI, 연구, 웹서비스 구축             |
 | **Member** | [김수빈](https://www.linkedin.com/in/sucong2/) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 생성형 AI, 웹/앱 서비스 구축 및 운영 |
-| **Member** | ??? |  |  |
+| **Member** | [신재영](https://www.linkedin.com/in/gn1793) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 생성형 AI, 연구 |
 | **Member** | ??? |  |  |
 | **Member** | ??? |  |  |
 
