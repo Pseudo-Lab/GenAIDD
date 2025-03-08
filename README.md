@@ -39,7 +39,7 @@ _"이론에서 실전까지, 함께 성장하는 AI 실험실"_
 | **Member** | [김수빈](https://www.linkedin.com/in/sucong2/) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 생성형 AI, 웹/앱 서비스 구축 및 운영 |
 | **Member** | [김예준](https://www.linkedin.com/in/ye-jun-kim-yerdy) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 생성형 AI |
 | **Member** | 신재영 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 생성형 AI, 연구 |
-| **Member** | ??? |  |  |
+| **Member** | [오성민](https://www.linkedin.com/in/fabxoe/) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 생성형 AI, 웹/앱 서비스 구축 및 운영, 노화, 유전체분석 |
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
