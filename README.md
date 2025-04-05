@@ -94,7 +94,7 @@ class CollaborationFramework:
 | 2025/03/10 | 프리뷰 - 제약분야에서 사용되는 다양한 모델들과 생성형 AI 소개 | 최호재 |  선정 중 |
 | 2025/03/17 | 논문 리뷰 - RFdiffusion,                  | 최호재, 김수빈 |  [1](https://github.com/Pseudo-Lab/GenAIDD/discussions/13#discussion-8106525), |
 | 2025/03/24 | Magical Week 휴일                     | - |  - |
-| 2025/03/31 | 논문 리뷰 -  |  이중원, 김예준 |  선정 중 |
+| 2025/03/31 | 논문 리뷰 -  |  이중원, 김예준 |  , [4](https://github.com/Pseudo-Lab/GenAIDD/discussions/24) |
 | 2025/04/07 | 논문 리뷰 -  |  오성민, 신재영 |  선정 중 |
 | 2025/04/14 | 논문 리뷰 - Generative Flow Network 2 |  미정 |  선정 중 |
 | 2025/04/21 | 논문 리뷰 - Generative Flow Network 3 |  미정 |  선정 중 |
