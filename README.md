@@ -69,9 +69,9 @@ class CollaborationFramework:
     
     def workflow(self):
         return """주간 사이클:
-        1️⃣ 월요일: 논문 리뷰 발표 (Github & Notion 타임라인 공유)
-        2️⃣ 화요일: 발표 후기 올리기 (본인의 blog --> Github 에 공유)
-        3️⃣ 수요일: 발표 홍보 하기 (본인의 SNS 계정에 발표글 링크를 걸어서 소개하기)"""
+        1️⃣ 일요일: 논문 리뷰 발표 (Github Discussion에 원문 링크 공유 등의 방법으로 공유. e.g. 본인의 blog --> Github에 링크, Github repo assets 폴더에 올리고 링크)
+        2️⃣ 월요일까지: 발표 후기 올리기 (Github Discussion 댓글에 후기 올리기)
+        3️⃣ 수요일까지: 발표 홍보 하기 (본인의 SNS 계정에 발표글 링크를 걸어서 소개하기)"""
 ```
 
 
@@ -92,14 +92,14 @@ class CollaborationFramework:
 | -------- | -------- | ---- | --- | 
 | 2025/03/03 | OT | 최호재 |  - |
 | 2025/03/10 | 프리뷰 - 제약분야에서 사용되는 다양한 모델들과 생성형 AI 소개 | 최호재 |  선정 중 |
-| 2025/03/17 | 논문 리뷰 - RFdiffusion,                  | 최호재, 김수빈 |  [1](https://github.com/Pseudo-Lab/GenAIDD/discussions/13#discussion-8106525), |
+| 2025/03/17 | 논문 리뷰 - RFdiffusion,   | 최호재, 김수빈 |  [1](https://github.com/Pseudo-Lab/GenAIDD/discussions/13#discussion-8106525), |
 | 2025/03/24 | Magical Week 휴일                     | - |  - |
-| 2025/03/31 | 논문 리뷰 -  |  이중원, 김예준 |  , [4](https://github.com/Pseudo-Lab/GenAIDD/discussions/24) |
-| 2025/04/07 | 논문 리뷰 -  |  오성민, 신재영 |  선정 중 |
-| 2025/04/14 | 논문 리뷰 - Generative Flow Network 2 |  미정 |  선정 중 |
-| 2025/04/21 | 논문 리뷰 - Generative Flow Network 3 |  미정 |  선정 중 |
-| 2025/04/28 | Magical Week 휴일                    |  미정 |  - |
-| 2025/05/05 | 논문 리뷰 - Score-based Method 1 |  미정 |  선정 중 |
+| 2025/03/31 | 논문 리뷰 - HI-Mol,  |  이중원, 김예준 |  , [4](https://github.com/Pseudo-Lab/GenAIDD/discussions/24) |
+| 2025/04/07 | 논문 리뷰 - TacoGFN,  |  오성민, 신재영 |  선정 중 |
+| 2025/04/14 | 논문 리뷰 - Generative Flow Network 2 |  최호재, 김수빈 |  선정 중 |
+| 2025/04/21 | 논문 리뷰 - Generative Flow Network 3 |  이중원, 김예준 |  선정 중 |
+| 2025/04/28 | Magical Week 휴일                    |  - |  - |
+| 2025/05/05 | 논문 리뷰 - Score-based Method 1 |  오성민, 신재영 |  선정 중 |
 | 2025/05/12 | 논문 리뷰 - Score-based Method 2 |  미정 |  선정 중 |
 | 2025/05/17 | PseudoCon |  - |  - |
 | 2025/05/19 | 논문 리뷰 - Structure based method 1 |  미정 |  선정 중 |
@@ -127,7 +127,7 @@ class CollaborationFramework:
 ## 🌱 참여 안내 (How to Engage)
 
 **진행 정보**
-- 시간: 매주 월요일 오후 8시
+- 시간: 매주 일요일 오전 10시
 - 장소: 온라인 (Pseudo Lab 디스코드 채널: `Room-YB`)
 
 **참여 조건**
