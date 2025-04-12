@@ -19,6 +19,9 @@
 ###### ArXiv, 2025, Molecular Text Generation, Discrete `Diffusion`
 Lee, Seul, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Yuxing Peng, Saee Paliwal, Weili Nie, and Arash Vahdat. 2025. “GenMol: A Drug Discovery Generalist with Discrete Diffusion.” arXiv. https://doi.org/10.48550/arXiv.2501.06158.
 
+###### Nature Communications, 2024, Molecular Dynamics Trajectory Generation, `Diffusion`
+Lu, Wei, Jixian Zhang, Weifeng Huang, Ziqiao Zhang, Xiangyu Jia, Zhenyu Wang, Leilei Shi, Chengtao Li, Peter G. Wolynes, and Shuangjia Zheng. “DynamicBind: Predicting Ligand-Specific Protein-Ligand Complex Structure with a Deep Equivariant Generative Model.” Nature Communications 15, no. 1 (February 5, 2024): 1071. https://doi.org/10.1038/s41467-024-45461-2.
+
 ###### Nature Computational Science, 2024, Structure-Based Drug Design, Equivariant `Diffusion`
 Schneuing, Arne, Charles Harris, Yuanqi Du, Kieran Didi, Arian Jamasb, Ilia Igashov, Weitao Du, et al. 2024. “Structure-Based Drug Design with Equivariant Diffusion Models.” Nature Computational Science, December. https://doi.org/10.1038/s43588-024-00737-x.
 
