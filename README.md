@@ -95,7 +95,7 @@ class CollaborationFramework:
 | 2025/03/17 | 논문 리뷰 - RFdiffusion,   | 최호재, 김수빈 |  [1](https://github.com/Pseudo-Lab/GenAIDD/discussions/13#discussion-8106525), |
 | 2025/03/24 | Magical Week 휴일                     | - |  - |
 | 2025/03/31 | 논문 리뷰 - HI-Mol,   |  이중원, 김예준 | 3, [4](https://github.com/Pseudo-Lab/GenAIDD/discussions/24) |
-| 2025/04/07 | 논문 리뷰 - TacoGFN,  |  오성민, 신재영 | 5, 6 |
+| 2025/04/07 | 논문 리뷰 - TacoGFN,  |  오성민, 신재영 | [5](https://github.com/Pseudo-Lab/GenAIDD/discussions/35), 6 |
 | 2025/04/14 | 논문 리뷰 - DynamicBind, IDOLpro |  최호재, 김수빈 |  7, 8 |
 | 2025/04/21 | 논문 리뷰 - Generative Flow Network 3 |  이중원, 최호재 |  선정 중 |
 | 2025/04/28 | Magical Week 휴일                    |  - |  - |
