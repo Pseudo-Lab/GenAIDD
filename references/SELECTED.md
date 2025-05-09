@@ -13,6 +13,8 @@ Lu, Wei, Jixian Zhang, Weifeng Huang, Ziqiao Zhang, Xiangyu Jia, Zhenyu Wang, Le
 ###### Nature, 2023, de novo Protein Design, `Diffusion`
 Watson, Joseph L., David Juergens, Nathaniel R. Bennett, Brian L. Trippe, Jason Yim, Helen E. Eisenach, Woody Ahern, et al. 2023. “De Novo Design of Protein Structure and Function with RFdiffusion.” Nature 620 (7976): 1089–1100. https://doi.org/10.1038/s41586-023-06415-8.
 
+###### ICLR, 2025, Synthesizable and score guided drug design, `GFlowNet`
+Seo, Seonghwan, Minsu Kim, Tony Shen, Martin Ester, Jinkyoo Park, Sungsoo Ahn, and Woo Youn Kim. 2024. “Generative Flows on Synthetic Pathway for Drug Design.” arXiv. http://arxiv.org/abs/2410.04542.
 
 ##### Jae Young
 

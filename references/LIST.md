@@ -36,5 +36,8 @@ Bengio, Emmanuel, Moksh Jain, Maksym Korablyov, Doina Precup, and Yoshua Bengio.
 ###### ArXiv, 2024, Structure-Based Drug Design, Target-Conditioned `GFlowNet`
 Shen, Tony, Seonghwan Seo, Grayson Lee, Mohit Pandey, Jason R. Smith, Artem Cherkasov, Woo Youn Kim, and Martin Ester. 2024. “TacoGFN: Target-Conditioned GFlowNet for Structure-Based Drug Design.” arXiv. http://arxiv.org/abs/2310.03223.
 
+###### ICLR, 2025, Synthesizable and score guided drug design, `GFlowNet`
+Seo, Seonghwan, Minsu Kim, Tony Shen, Martin Ester, Jinkyoo Park, Sungsoo Ahn, and Woo Youn Kim. 2024. “Generative Flows on Synthetic Pathway for Drug Design.” arXiv. http://arxiv.org/abs/2410.04542.
+
 ###### ArXiv, 2024, Synthesizable Analog Generation, `Transformer`
 Luo, Shitong, Wenhao Gao, Zuofan Wu, Jian Peng, Connor W. Coley, and Jianzhu Ma. 2024. “Projecting Molecules into Synthesizable Chemical Spaces.” arXiv. http://arxiv.org/abs/2406.04628.
